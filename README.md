@@ -46,3 +46,7 @@ Solutions to selected Codewars problems in different languages and kata
 - [Schrodinger's Boolean (6 kyu)](https://github.com/bheki-maenetja/codewars/blob/master/js/k6_schrodingers-booleam.js)
 - [Create Phone Number (6 kyu)](https://github.com/bheki-maenetja/codewars/blob/master/js/k6_create-phone-number.js)
 - [Valid Parentheses (5 kyu)](https://github.com/bheki-maenetja/codewars/blob/master/js/k5_valid-parentheses.js)
+
+### [C](https://github.com/bheki-maenetja/codewars/tree/master/c)
+- [Multiply (8 kyu)](https://github.com/bheki-maenetja/codewars/blob/master/c/k8_multiply.c)
+- [Factorial (7 kyu)](https://github.com/bheki-maenetja/codewars/blob/master/c/k7_factorial.c)
